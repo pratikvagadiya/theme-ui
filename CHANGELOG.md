@@ -1,3 +1,15 @@
+# v0.16.1 (Mon Aug 14 2023)
+
+#### 👨‍💻 Minor changes
+
+- Add missing migration notes on 0.16 to docs ([@hasparus](https://github.com/hasparus))
+
+#### Authors: 1
+
+- Piotr Monwid-Olechnowicz ([@hasparus](https://github.com/hasparus))
+
+---
+
 # v0.16.0 (Thu Jun 15 2023)
 
 ### Release Notes
